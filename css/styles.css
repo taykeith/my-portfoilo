@@ -27,6 +27,7 @@ font-size:18px;
 
 }
 .col-md-6, .col-md-4 img{
+  margin-top: 30px;
   height: 200px;
   width: 400px;
   border-radius: 4px;
