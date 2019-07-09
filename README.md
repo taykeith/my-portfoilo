@@ -1,4 +1,4 @@
-# my-portfoilo
+# my-portfolio
 ## description 
 my project description is about my self and what i like doing. 
 
