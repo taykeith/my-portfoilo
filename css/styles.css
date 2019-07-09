@@ -1,11 +1,16 @@
 .jumbotron{
-
+top: 10px;
+color: #000000;
 }
 h1{
 
 }
 h3{
 
+}
+.container-fluid{
+  background-color: #1c2938;
+  color: #ffffff;
 }
 .card{
 
