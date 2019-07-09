@@ -1,6 +1,5 @@
 .jumbotron{
-top: 10px;
-color: #000000;
+  background-image: url('https://images.unsplash.com/photo-1522021140916-00ca89bfe033?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
 }
 h1{
 
