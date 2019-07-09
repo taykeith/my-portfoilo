@@ -1,7 +1,7 @@
 # my-portfolio
 
 ## description 
-my project description is about my self and what i like doing. 
+my project description is about my self and what i like doing.with the work have done to my knowladge best, have been able to create a portfoilo.
 
 ## Author
 Keith
