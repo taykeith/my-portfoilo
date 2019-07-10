@@ -1,21 +1,19 @@
 # my-portfolio
 
-## description 
-my project description is about my self and what i like doing.with the work have done to my knowledge best, have been able to create a portfoilo.
+## Description
+My project description is about my self and what I like doing. With the work have done to my knowledge best, have been able to create a portfoilo.
 
 ## Author
 Keith
 
 ## Technologies
-i used the following tec :
+I used the following tech :
 
-> 1.html
+ 1. html
 
-> 2.css
+ 2. css
 
-> 3.markdown
+ 3. markdown
 
 ## License
 MIT License
-
-
