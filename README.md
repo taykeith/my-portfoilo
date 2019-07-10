@@ -1,5 +1,7 @@
 # my-portfolio
 
+[ check out my portfolio](https://taykeith.github.io/my-portfoilo/)
+
 ## Description
 My project description is about my self and what I like doing. With the work have done to my knowledge best, have been able to create a portfoilo.
 
